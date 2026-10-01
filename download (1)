@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+env/
+comiccraft-env/
+generated/*
+!generated/.gitkeep
+*.pdf
+.vscode/
